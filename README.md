@@ -6,5 +6,5 @@ Post apocaliptic survival game based in space.
 * Models: Blender
 * Textures: Photoshop ???
 
-## Plot link
+## Gameplay
 Google docs link: https://docs.google.com/document/d/14OtidY3g8JwFp04UILfS5tYNAkx2yEYC7_i9hqHaUU4/edit?usp=sharing
