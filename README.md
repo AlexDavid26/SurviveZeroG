@@ -4,8 +4,8 @@ Welcome to the Post-Apocalyptic Space Odyssey, a unique blend of desolation and 
 
 ### Technologies:
 
-- Engine: Unity
-- Models: Blender
+- **Engine**: Unity
+- **Models**: Blender
 
 ### Story:
 - Google doc was deleted
