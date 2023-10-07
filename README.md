@@ -1,10 +1,11 @@
-# SurviveZeroG
-Post apocaliptic survival game based in space.
+# Survive Zero G
 
-## Tech stack
-* Engine: Unity 2022.1.3f1
-* Models: Blender
-* Textures: Photoshop ???
+Welcome to the Post-Apocalyptic Space Odyssey, a unique blend of desolation and cosmic exploration. In this game, you'll embark on a journey through a devastated Earth, and ultimately, into the vastness of space. Navigate through remnants of civilization, scavenge for resources, and embark on a cosmic voyage to uncover the secrets of a shattered world.
 
-## Gameplay
-Google docs link: https://docs.google.com/document/d/14OtidY3g8JwFp04UILfS5tYNAkx2yEYC7_i9hqHaUU4/edit?usp=sharing
+### Technologies:
+
+- Engine: Unity
+- Models: Blender
+
+### Story:
+- Google doc was deleted
